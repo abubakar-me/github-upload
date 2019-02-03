@@ -12,7 +12,7 @@
 
 get_header(); ?>
 
-<div class="wrap">
+<div class="wrap new">
 
 	<?php if ( have_posts() ) : ?>
 		<header class="page-header">
