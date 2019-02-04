@@ -12,7 +12,7 @@
 
 get_header(); ?>
 
-<div class="wrap new this nabeel">
+<div class="wrap new this nabeel this is new thing">
 
 	<?php if ( have_posts() ) : ?>
 		<header class="page-header">
