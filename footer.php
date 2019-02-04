@@ -16,7 +16,7 @@
 
 		</div><!-- #content -->
 
-		<footer id="colophon" class="site-footer this is totally new thing fdsfgds " role="contentinfo">
+		<footer id="colophon" class="site-footer this is totally new thing fdsfgds sdfasddfsdfsfdss" role="contentinfo">
 			<div class="wrap">
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );
